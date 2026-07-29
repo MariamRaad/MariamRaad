@@ -1,4 +1,4 @@
-# AboutMe
+# About Me
 
 Hi, I'm Mariam 👋
 
