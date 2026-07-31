@@ -1,20 +1,12 @@
 # About Me
 
-Hi, I'm Mariam 👋
+Hi, I'm Mariam 👋 - a Software Engineer focused on Unity, XR and interactive applications.  
+I enjoy creating immersive user experiences combining gameplay, UI/UX, audio and user interaction.
 
-I'm a Software Engineer focused on Unity, XR and interactive applications.
+Since 2020 I have been developing VR applications at living brain, including a Class IIa medical VR app, as well as VR interaction systems, gameplay features and internal tools using Unity, C# and .NET.
 
-With a background in Computer Science (M. Sc.), I enjoy creating immersive experiences combining gameplay, UI/UX, audio and user interaction.
-My professional experience includes developing VR training applications, Unity-based systems and internal tools using C# and .NET.
-
-### Interests
-
-🥽 XR / Virtual Reality
-
-🎮 Unity & Gameplay Development
-
-🖥️ UI/UX for interactive applications
-
-🔊 Audio & user feedback systems
-
-🛠️ Tools and technical solutions
+### Interests  
+🥽 XR / Virtual Reality  
+🎮 Unity & Gameplay Development  
+🖥️ UI/UX for interactive applications  
+🔊 Audio & user feedback systems  
