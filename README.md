@@ -1,4 +1,4 @@
-# About Me
+# About Me 
 
 Hi, I'm Mariam 👋 - a Software Engineer focused on Unity, XR and interactive applications.  
 I enjoy creating immersive user experiences combining gameplay, UI/UX, audio and user interaction.
